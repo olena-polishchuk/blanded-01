@@ -1,16 +1,24 @@
 /* Сюди додавай стилі частинки Hero */
 .hero-title {
-  font-family: 'Inter', sans-serif;
   font-weight: 500;
   font-size: 80px;
   line-height: 1;
   letter-spacing: -0.02em;
   text-align: center;
-  color: #fbfbfb;
 }
 
 .hero-text {
+  font-weight: 300;
+  line-height: 1.4;
+  text-align: center;
+  color: #b4b7ba;
 }
 
 .hero-button {
+  background: #1b414b;
+  border-radius: 15px;
+  padding: 16px 40px;
+  width: 179px;
+  height: 52px;
+  align-items: center;
 }
